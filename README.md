@@ -4,7 +4,7 @@ A `GzCountryTableView` is a UITableView preload with appStore Countries and flag
 
 ![](https://github.com/gazolla/GzCountryTableView/raw/master/screenshot1.png)
 
-(https://github.com/gazolla/GzCountryTableView/raw/master/screenshot3.png)
+![](https://github.com/gazolla/GzCountryTableView/raw/master/screenshot3.png)
 
 
 ##Supported Platforms
