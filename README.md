@@ -1,6 +1,6 @@
 #GzCountryTableView
 
-A GzCountryTableView is a UITableView preload with appStore Countries and flags. The objective of this is to provide a way to pick one country from a list with a Search mechanism.
+A `GzCountryTableView` is a UITableView preload with appStore Countries and flags. The objective of this is to provide a way to pick one country from a list with a Search mechanism.
 
 
 ##Supported Platforms
@@ -33,7 +33,7 @@ And implement the KVO method:
     }
 
 
-if you want to add or remove a country from the tableView just edit the appstore_countries.txt file locate at flags directory (/GzCountryTableViewController/flags)
+if you want to add or remove a country from the tableView just edit the `appstore_countries.txt` file locate at flags directory `/GzCountryTableViewController/flags`
 
 
  
