@@ -33,7 +33,7 @@ And implement the KVO method:
     }
 
 
-if you want to add or remove a country from the tableView just edit the `appstore_countries.txt` file locate at flags directory `/GzCountryTableViewController/flags`
+if you want to add or remove a country from the tableView, just edit the `appstore_countries.txt` file locate at flags directory `/GzCountryTableViewController/flags`
 
 
  
