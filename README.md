@@ -33,9 +33,7 @@ And implement the KVO method:
     }
 
 
-You will want to implement the method `colorPopoverControllerDidSelectColor:(NSString *)hexColor` from `ColorViewControllerDelegate` to get the result color selected. To use the color selected you should call the ` colorFromHex:(NSString *)hexColor` as the follow example:
-
-	self.view.backgroundColor = [GzColors colorFromHex:hexColor];
+if you want to add or remove a country from the tableView just edit the appstore_countries.txt file locate at flags directory (/GzCountryTableViewController/flags)
 
 
  
@@ -51,7 +49,7 @@ You will want to implement the method `colorPopoverControllerDidSelectColor:(NSS
 `GzCountryTableView` is licensed under the MIT license, which is reproduced in its entirety here:
 
 
->Copyright (c) 2012 Sebastian Gazolla Jr
+>Copyright (c) 2013 Sebastian Gazolla Jr
 >
 >Permission is hereby granted, free of charge, to any person obtaining a copy
 >of this software and associated documentation files (the "Software"), to deal
