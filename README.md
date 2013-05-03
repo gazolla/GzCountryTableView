@@ -2,8 +2,7 @@
 
 A `GzCountryTableView` is a UITableView preload with appStore Countries and flags. The objective of this is to provide a way to pick one country from a list with a Search mechanism.
 
-![](https://github.com/gazolla/GzCountryTableView/raw/master/screenshot1.png)
-![](https://github.com/gazolla/GzCountryTableView/raw/master/screenshot3.png)
+![](https://github.com/gazolla/GzCountryTableView/raw/master/GzCountryTblVw.png)
 
 
 ##Supported Platforms
