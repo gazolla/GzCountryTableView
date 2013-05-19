@@ -44,7 +44,9 @@ if you want to add or remove a country from the tableView, just edit the `appsto
 `GzCountryTableView` was written by [Sebastian Gazolla Jr][1].
 
   [1]: http://gazapps.com
-
+Website: http://gazapps.com/  
+Google+: http://gplus.to/gazollajr  
+Twitter: http://twitter.com/gazollajr
   
 ##License
 
