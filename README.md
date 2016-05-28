@@ -69,3 +69,7 @@ if you want to add or remove a country from the tableView, just edit the `appsto
 >LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 >OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 >THE SOFTWARE.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gazolla/gzcountrytableview/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
